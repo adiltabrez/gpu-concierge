@@ -1,0 +1,6 @@
+Provider,Price_Per_Hour,Risk_Score,Compliance_Level,Notes
+Vast.ai,0.20,9,None,Unverified hosts - High Risk
+RunPod,0.45,4,SOC2 Type 1,Good balance for Startups
+Lambda,0.50,3,SOC2 Type 2,Reliable & Secure
+CoreWeave,1.20,1,SOC2 + HIPAA,Enterprise Grade Security
+AWS,3.50,1,ISO 27001,Industry Standard but Expensive
